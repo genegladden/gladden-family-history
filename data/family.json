@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "title": "The Gladden Line",
+    "updated": "23 November 2026",
+    "updatedIso": "2026-11-23",
+    "intro": [
+      "This record starts with Olivia Gene Gladden and Evan Elliot Gladden, then their parents, Gene Gladden and Emily Gladden, and then walks back through the Gladden fathers as far as the papers go.",
+      "It was set down on 23 November 2026. No person, date, or kinship has been added beyond the research. If a link is unproven, the card says so before it is opened.",
+      "Olivia, Evan, Gene, and Emily are living, so they are shown by name only. Gene's birthplace, Groves, Texas, is the one place included for him.",
+      "The old records spell the name Gladden, Gladen, Gleden, gladding, and Gladiney. The spelling in each note is the spelling on that page.",
+      "The ground of the early records is Wateree Creek, in Fairfield County, South Carolina. Jesse Gladden is documented there. Reaching him from the later family depends on John, and that link is unproven. William and Richard are candidates. Earlier than that, the search continues."
+    ]
+  },
+  "line": [
+    {
+      "id": "children",
+      "kicker": "Generation 1",
+      "short": "Olivia and Evan",
+      "title": "Olivia Gene Gladden and Evan Elliot Gladden",
+      "summary": "Children of Gene Gladden and Emily Gladden. Living, and shown by name only.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "olivia",
+          "name": "Olivia Gene Gladden",
+          "living": true,
+          "confidence": "proven",
+          "relation": "Daughter of Gene Gladden and Emily Gladden",
+          "sources": [
+            "Family record. Living people are shown by name only."
+          ]
+        },
+        {
+          "id": "evan",
+          "name": "Evan Elliot Gladden",
+          "living": true,
+          "confidence": "proven",
+          "relation": "Son of Gene Gladden and Emily Gladden",
+          "sources": [
+            "Family record. Living people are shown by name only."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gene",
+      "kicker": "Generation 2",
+      "short": "Gene and Emily",
+      "title": "Gene Gladden and Emily Gladden",
+      "summary": "Gene was born in Groves, Texas. Emily is his wife. Living, and shown by name only, aside from that birthplace.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "gene-gladden",
+          "name": "Gene Gladden",
+          "living": true,
+          "confidence": "proven",
+          "relation": "Father of Olivia Gene Gladden and Evan Elliot Gladden",
+          "birthplace": "Born in Groves, Texas",
+          "sources": [
+            "Family record. Birthplace: Groves, Texas."
+          ]
+        },
+        {
+          "id": "emily",
+          "name": "Emily Gladden",
+          "living": true,
+          "confidence": "proven",
+          "relation": "Wife of Gene Gladden, and mother of Olivia and Evan",
+          "sources": [
+            "Family record. Shown by name only, because she is living."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "floyd-jr",
+      "kicker": "Generation 3",
+      "short": "Floyd Jr.",
+      "title": "Floyd Dewey Gladden Jr.",
+      "summary": "The Gladden father in the generation before Gene. He married Rebecca Elaine Self, born in 1945.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "floyd-dewey-jr",
+          "name": "Floyd Dewey Gladden Jr.",
+          "living": false,
+          "confidence": "proven",
+          "relation": "The generation before Gene Gladden",
+          "paragraphs": [
+            "Floyd Dewey Gladden Jr. is the Gladden father in the generation before Gene. He married Rebecca Elaine Self."
+          ],
+          "sources": [
+            "Family record, in the generation before Gene."
+          ]
+        },
+        {
+          "id": "rebecca-self",
+          "name": "Rebecca Elaine Self",
+          "living": false,
+          "confidence": "proven",
+          "relation": "Wife of Floyd Dewey Gladden Jr. Born in 1945.",
+          "paragraphs": [
+            "Rebecca Elaine Self was born in 1945. Her parents were Elliot Nolee Self and Violet Joy Ellis.",
+            "The Self line runs to Sabine Parish, Louisiana, and had come from Mississippi by 1853. The Ellis line runs to William Hargrove Ellis, born in 1822 in Alabama."
+          ],
+          "sources": [
+            "Family record. Born in 1945. Parents: Elliot Nolee Self and Violet Joy Ellis.",
+            "The Self line: Sabine Parish, Louisiana, from Mississippi by 1853.",
+            "The Ellis line: William Hargrove Ellis, born in 1822 in Alabama."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "floyd-sr",
+      "kicker": "Generation 4",
+      "short": "Floyd Sr.",
+      "title": "Floyd Dewey Gladden Sr.",
+      "summary": "The Gladden father in the generation before Floyd Jr. He married Beulah Smith (1924–2005). His brother was Cecil Edwin Gladden, called Uncle Cotton.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "floyd-dewey-sr",
+          "name": "Floyd Dewey Gladden Sr.",
+          "living": false,
+          "confidence": "proven",
+          "relation": "The generation before Floyd Dewey Gladden Jr.",
+          "paragraphs": [
+            "Floyd Dewey Gladden Sr. is the Gladden father in the generation before Floyd Jr. He married Beulah Smith (1924–2005).",
+            "The Smith, Hebert, and Breaux lines are from Vermilion Parish, Louisiana.",
+            "His brother was Cecil Edwin Gladden (1927–1994), called Uncle Cotton."
+          ],
+          "traditionLabel": "Family tradition, from Floyd Dewey Gladden Sr.",
+          "tradition": "The Gladdens came from South Carolina, and there were Black Gladden families on the East Coast connected to them.",
+          "sources": [
+            "Family record. Married Beulah Smith (1924–2005). Brother: Cecil Edwin Gladden, called Uncle Cotton (1927–1994).",
+            "The Smith, Hebert, and Breaux lines are from Vermilion Parish, Louisiana.",
+            "Family tradition, told by Floyd Sr., and kept here as tradition: the Gladdens came from South Carolina, and there were Black Gladden families on the East Coast connected to them."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eugene",
+      "kicker": "Generation 5",
+      "short": "Eugene Webster",
+      "title": "Eugene Webster Gladden",
+      "summary": "The generation before Floyd Dewey Gladden Sr. Proven in Gene's tree. These notes give no further dates for him.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "eugene-webster",
+          "name": "Eugene Webster Gladden",
+          "living": false,
+          "confidence": "proven",
+          "relation": "The generation before Floyd Dewey Gladden Sr.",
+          "paragraphs": [
+            "Eugene Webster Gladden stands in Gene's tree in the generation before Floyd Dewey Gladden Sr. The tree marks him proven.",
+            "These notes record no birth, marriage, or death date for him. Nothing has been supplied to fill that silence."
+          ],
+          "sources": [
+            "Gene's family tree, which marks Eugene Webster Gladden proven. No further dates are in these notes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "william-noah",
+      "kicker": "Generation 6",
+      "short": "William Noah",
+      "title": "William Noah Gladden",
+      "summary": "The generation before Eugene Webster. He married M. A. D. Carroway on 10 April 1884 in Rapides Parish, Louisiana.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "william-noah-gladden",
+          "name": "William Noah Gladden",
+          "living": false,
+          "confidence": "proven",
+          "relation": "The generation before Eugene Webster Gladden",
+          "paragraphs": [
+            "William Noah Gladden is the generation before Eugene Webster Gladden in this line.",
+            "He married M. A. D. Carroway on 10 April 1884 in Rapides Parish, Louisiana."
+          ],
+          "sources": [
+            "Marriage to M. A. D. Carroway, 10 April 1884, Rapides Parish, Louisiana."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "william-silas",
+      "kicker": "Generation 7",
+      "short": "William Silas",
+      "title": "William Silas Gladden",
+      "summary": "The generation before William Noah. Born in South Carolina about 1826–1829. His wife was Nancy. On the census in Louisiana in 1870 and 1880.",
+      "confidence": "proven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "william-silas-gladden",
+          "name": "William Silas Gladden",
+          "living": false,
+          "confidence": "proven",
+          "relation": "The generation before William Noah Gladden. Born in South Carolina about 1826–1829.",
+          "paragraphs": [
+            "William Silas Gladden is the generation before William Noah in this line. He was born in South Carolina about 1826–1829. His wife was Nancy, the Nancy of this Louisiana household.",
+            "The 1870 census lists him in Ouachita Parish, Louisiana, as \"Wm Gladen,\" age 44, with a son Wm, age 10.",
+            "The 1880 census lists him in Alexandria, Louisiana, as \"W. S. Gladden,\" age 51, with Nancy, Laura, Columbia, and John.",
+            "Laura, Columbia, and John are names in that 1880 household. These notes do not give them a kinship beyond that."
+          ],
+          "sources": [
+            "This research: born in South Carolina about 1826–1829. Wife Nancy.",
+            "1870 U.S. census, Ouachita Parish, Louisiana. \"Wm Gladen,\" age 44, with a son Wm, age 10.",
+            "1880 U.S. census, Alexandria, Louisiana. \"W. S. Gladden,\" age 51, with Nancy, Laura, Columbia, and John."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "john",
+      "kicker": "Generation 8",
+      "short": "John",
+      "title": "John Gladden",
+      "summary": "About 1796–1849, of Fairfield County, married to Rebecca Coleman. Gene treats him as the father of William Silas. No record proves that link.",
+      "confidence": "unproven",
+      "placement": "spine",
+      "people": [
+        {
+          "id": "john-gladden",
+          "name": "John Gladden",
+          "living": false,
+          "confidence": "unproven",
+          "relation": "Assumed father of William Silas Gladden. About 1796–1849, Fairfield County, South Carolina.",
+          "paragraphs": [
+            "John Gladden, about 1796–1849, of Fairfield County, South Carolina, is the step this research uses between William Silas and Jesse. Gene chose to treat John as William Silas's father. No record proves it yet.",
+            "He married Rebecca Coleman. He sold land to Middleton Gladden in 1816, and to Silas Gladden in about 1836.",
+            "A compiled source says he married Nancy Hollis. These notes mark that claim unproven. Nancy, the daughter of Moses Hollis, is kept beside the line, because no record names her husband.",
+            "Jesse's 1821 will names a son John. These notes do not prove that the son in the will and this John, of about 1796–1849, are the same man."
+          ],
+          "sources": [
+            "Working line chosen by Gene: John Gladden (about 1796–1849) of Fairfield County as the father of William Silas. No record proving the link is cited.",
+            "Married Rebecca Coleman, as carried in this research.",
+            "Sold land to Middleton Gladden in 1816, and to Silas Gladden in about 1836.",
+            "A compiled source says he married Nancy Hollis. Unproven."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jesse",
+      "kicker": "Generation 9",
+      "short": "Jesse",
+      "title": "Jesse Gladden",
+      "summary": "Died 1821 in Fairfield County. His will names his wife Nelly. His own records are solid. The step to him through John is still unproven.",
+      "confidence": "proven",
+      "placement": "spine",
+      "see": [
+        {"label": "The 1786 deed, with Jesse's mark", "href": "#record-deed-1786"},
+        {"label": "His 96 acres, plotted as an estimate", "href": "#place-jesse-96"}
+      ],
+      "people": [
+        {
+          "id": "jesse-gladden",
+          "name": "Jesse Gladden",
+          "living": false,
+          "confidence": "proven",
+          "relation": "Died 1821, Fairfield County, South Carolina.",
+          "paragraphs": [
+            "Jesse Gladden died in 1821 in Fairfield County, South Carolina. His will of that year names his wife Nelly, and sons including Silas, born about 1790, William, born about 1795, and John. He signed by mark, and so could not write.",
+            "In 1786 he witnessed William Gladden's purchase of land on Nixon's Creek. The deed is Fairfield Deeds Book A, page 294. His mark is on that page.",
+            "In 1794 he bought a horse at the sale of the Moses Hollis estate, and signed the appraisers' oath as \"Jassey Gleden.\"",
+            "On 19 February 1800 he bought 96 acres on a branch of Wateree Creek, bordered by John Barber. That deed is Book N, page 78. He sold the land to John Barber in 1814.",
+            "He served in the Revolutionary militia alongside William Gladden. The notes name no rank and no company.",
+            "The will's son John, and the John of about 1796–1849, are not proven to be the same man. This line reaches Jesse only by the choice Gene has made, which a record has not yet shown."
+          ],
+          "sources": [
+            "Will dated 1821, Fairfield County, South Carolina. Names his wife Nelly and sons including Silas (born about 1790), William (born about 1795), and John. Signed by mark.",
+            "Fairfield Deeds Book A, page 294. 1786. Witnessed William Gladden's purchase on Nixon's Creek, and signed by mark.",
+            "Moses Hollis estate sale, 1794. Bought a horse, and signed the appraisers' oath as \"Jassey Gleden.\"",
+            "Deed Book N, page 78. 19 February 1800. Bought 96 acres on a branch of Wateree Creek, bordered by John Barber. Sold to John Barber in 1814.",
+            "This research: served in the Revolutionary militia alongside William Gladden. No rank or company is named."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nancy",
+      "kicker": "Beside the line",
+      "short": "Nancy Hollis",
+      "title": "Nancy (Hollis) Gladden",
+      "summary": "Daughter of Moses Hollis. His will calls her \"my Daughter Nancy gladding.\" No record names her husband, so she is not fixed as Jesse's wife or as John's.",
+      "confidence": "unproven",
+      "placement": "beside",
+      "see": [
+        {"label": "The 1793 will of Moses Hollis", "href": "#record-hollis-will-1793"},
+        {"label": "Her 100 acres, plotted as an estimate", "href": "#place-nancy-100"}
+      ],
+      "people": [
+        {
+          "id": "nancy-hollis",
+          "name": "Nancy (Hollis) Gladden",
+          "living": false,
+          "confidence": "unproven",
+          "relation": "Daughter of Moses Hollis. Husband unnamed.",
+          "paragraphs": [
+            "The will of Moses Hollis, written on 9 April 1793 and proved in 1794, names \"my Daughter Nancy gladding.\"",
+            "In 1797 her brother Berry Hollis sold her 100 acres on a branch of Wateree Creek, and gave her an enslaved man named Tom, \"for love and affection.\" The deed is Book L, page 90.",
+            "This research calls her a possible first wife of Jesse, or else a wife of John. Her husband is never named. Both possibilities stay open, and neither is treated as fact."
+          ],
+          "sources": [
+            "Will of Moses Hollis, written 9 April 1793, proved 1794. Names \"my Daughter Nancy gladding.\"",
+            "Deed Book L, page 90. 1797. Berry Hollis sold her 100 acres on a branch of Wateree Creek, and gave her an enslaved man named Tom, \"for love and affection.\"",
+            "Her husband is not named in these records."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "william-1793",
+      "kicker": "Beside the line",
+      "short": "William, d. 1793",
+      "title": "William Gladden, died 1793",
+      "summary": "Died in 1793. Jesse's neighbor on Wateree Creek. Compilers call them brothers. No record proves the brotherhood.",
+      "confidence": "probable",
+      "placement": "beside",
+      "see": [
+        {"label": "The 1786 deed Jesse witnessed for him", "href": "#record-deed-1786"},
+        {"label": "The 150 acres, plotted as an estimate", "href": "#place-william-150"},
+        {"label": "The 100 acres on Nixon's Creek, plotted as an estimate", "href": "#place-william-100"},
+        {"label": "Gladden-Powell Cemetery", "href": "#place-gladden-powell"}
+      ],
+      "people": [
+        {
+          "id": "william-died-1793",
+          "name": "William Gladden",
+          "living": false,
+          "confidence": "probable",
+          "relation": "Died 1793. Probable brother of Jesse, and his neighbor. The brotherhood is not proven.",
+          "paragraphs": [
+            "William Gladden died in 1793. He and Jesse both lived on branches of Wateree Creek. Compilers call them brothers. No record proves it, so he stands beside the line rather than on it.",
+            "On 25 November 1770 he bought 150 acres on a branch of Wateree Creek, in St. Mark's Parish, from William Goen. The deed is Book G, page 35.",
+            "About 1783 he was an appraiser of the estate of James Land, in Camden District.",
+            "In 1786 he bought 100 acres on Nixon's Creek, next to John Barber. Jesse witnessed that deed.",
+            "He served in the Revolutionary militia alongside Jesse. The notes name no rank and no company.",
+            "His wife, Elizabeth Gladden, died in 1858 at the age of 107, and is buried at Gladden-Powell Cemetery.",
+            "His son Minor Gladden (1787–1867) was the father of Confederate Gen. Adley Hogan Gladden (1810–1862). Minor and Adley are recorded with this William. They are not steps on the line back through Jesse."
+          ],
+          "sources": [
+            "Deed Book G, page 35. 25 November 1770. Bought 150 acres on a branch of Wateree Creek, in St. Mark's Parish, from William Goen.",
+            "About 1783, appraiser of the James Land estate, Camden District.",
+            "1786. Bought 100 acres on Nixon's Creek, next to John Barber. Jesse witnessed the deed (Fairfield Deeds Book A, page 294).",
+            "This research: served in the Revolutionary militia alongside Jesse. No rank or company is named.",
+            "Wife Elizabeth Gladden died in 1858 at age 107, buried at Gladden-Powell Cemetery.",
+            "Son Minor Gladden (1787–1867), father of Confederate Gen. Adley Hogan Gladden (1810–1862).",
+            "Compilers call him a brother of Jesse. No record cited here proves the brotherhood."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "richard",
+      "kicker": "Generation 10, a candidate",
+      "short": "Richard Gladen",
+      "title": "Richard Gladen",
+      "summary": "Died about 1782–1783. His widow was Ann. He is old enough to be the father of William and of Jesse, and no record says that he was.",
+      "confidence": "unproven",
+      "placement": "spine",
+      "see": [
+        {"label": "The 1783 estate appraisement", "href": "#record-richard-estate-1783"}
+      ],
+      "people": [
+        {
+          "id": "richard-gladen",
+          "name": "Richard Gladen",
+          "living": false,
+          "confidence": "unproven",
+          "relation": "Died about 1782–1783. A candidate for the father of William and Jesse. Not proven.",
+          "paragraphs": [
+            "Richard Gladen died about 1782–1783. Ann was his widow. He is the right age to be the father of the William who died in 1793 and of Jesse. No record says that he was, so he remains a candidate.",
+            "On 16 October 1775 he witnessed the will of John Phillips of Jacksons Creek. The record writes his name \"Richard Gladiney.\" The will is Camden Estate Book A-1, page 75.",
+            "On 17 December 1783 his estate was appraised at £146.17.10½. The appraisement is Camden Book A-1, page 130. His widow, Ann, was the main buyer at the sale, and among her purchases was an enslaved man, for £42.",
+            "About 1789, \"Ann Gladden, widow,\" bought 100 acres on Mill Branch of Wateree Creek. By 1814 she was living in Putnam County, Georgia, and she sold that land."
+          ],
+          "sources": [
+            "Camden Estate Book A-1, page 75. 16 October 1775. Witnessed the will of John Phillips of Jacksons Creek, as \"Richard Gladiney.\"",
+            "Camden Book A-1, page 130. 17 December 1783. Estate appraised at £146.17.10½. Widow Ann was the main buyer at the sale, including an enslaved man for £42.",
+            "About 1789, \"Ann Gladden, widow,\" bought 100 acres on Mill Branch of Wateree Creek. By 1814 she was living in Putnam County, Georgia, and sold that land.",
+            "He is the right age to be the father of William and Jesse. No record says so."
+          ]
+        }
+      ]
+    }
+  ],
+  "searching": {
+    "title": "Still searching",
+    "lede": "The search continues. What follows are leads, not people added to this line, and not facts of kinship.",
+    "sections": [
+      {
+        "id": "fairfax",
+        "title": "Fairfax County, Virginia, a lead, probably not this line",
+        "mark": "Not on this line",
+        "paragraphs": [
+          "William Gladdin is on record in Fairfax County, Virginia, from 1749 to March 1772. John, Catharine, and Frances Gladen are there from 1753 to 1762.",
+          "The William of the Wateree Creek deeds was already in South Carolina by 1770, so the Fairfax William is probably a different man. He is kept here as a lead. He is not added to the line."
+        ]
+      },
+      {
+        "id": "sixteen-hundreds",
+        "title": "The 1600s",
+        "mark": "The search continues",
+        "paragraphs": [
+          "No record of this family has been found in the 1600s. That silence is not a finding about who the family was. It is the part of the search still open."
+        ]
+      }
+    ]
+  },
+  "placesIntro": "These places are in Fairfield County, South Carolina, in the country of Wateree Creek. A parcel pin is an estimate. The deeds do not give a modern survey, and the circle on the aerial map is only a guide. The cemeteries and Gladden Grove are plotted from the coordinates in the notes.",
+  "placesSee": [
+    {"label": "The aerial map of the estimates", "href": "#record-parcels-map"},
+    {"label": "The 1820 Mills atlas crop", "href": "#record-mills-1820"}
+  ],
+  "places": [
+    {
+      "id": "gladden-powell",
+      "name": "Gladden-Powell Cemetery",
+      "detail": "Beside I-77, near Little Wateree Creek, Fairfield County, South Carolina. This research describes it as the original Gladden acreage. Elizabeth Gladden, wife of the William who died in 1793, died in 1858 at the age of 107 and is buried here.",
+      "lat": "34.45944",
+      "lng": "-80.99417",
+      "approximate": false
+    },
+    {
+      "id": "barber-cemetery",
+      "name": "Barber Cemetery",
+      "detail": "Near the Wateree Creek tracts, Fairfield County, South Carolina. The notes give the place and the coordinates, and do not list who is buried here.",
+      "lat": "34.4615",
+      "lng": "-80.97507",
+      "approximate": false
+    },
+    {
+      "id": "jesse-96",
+      "name": "Jesse's 96 acres",
+      "detail": "A branch of Wateree Creek, bordered by John Barber. Jesse bought the tract on 19 February 1800 (Book N, page 78) and sold it to John Barber in 1814.",
+      "lat": "34.468",
+      "lng": "-80.979",
+      "approximate": true,
+      "estimateNote": "The pin is an estimate of about 34.468, -80.979. It is not a surveyed corner."
+    },
+    {
+      "id": "william-100",
+      "name": "William's 100 acres on Nixon's Creek",
+      "detail": "Bought in 1786 by the William Gladden who died in 1793, next to John Barber. Jesse witnessed the deed.",
+      "lat": "34.466",
+      "lng": "-80.985",
+      "approximate": true,
+      "estimateNote": "The pin is an estimate of about 34.466, -80.985. It is not a surveyed corner."
+    },
+    {
+      "id": "william-150",
+      "name": "William's 150 acres",
+      "detail": "Bought on 25 November 1770 by the William Gladden who died in 1793, on a branch of Wateree Creek in St. Mark's Parish, from William Goen (Book G, page 35).",
+      "lat": "34.474",
+      "lng": "-80.998",
+      "approximate": true,
+      "estimateNote": "The pin is an estimate of about 34.474, -80.998. It is not a surveyed corner."
+    },
+    {
+      "id": "nancy-100",
+      "name": "Nancy's 100 acres",
+      "detail": "A branch of Wateree Creek. In 1797 Berry Hollis sold this tract to his sister Nancy, and gave her an enslaved man named Tom, \"for love and affection\" (Book L, page 90).",
+      "lat": "34.456",
+      "lng": "-80.962",
+      "approximate": true,
+      "estimateNote": "The pin is an estimate of about 34.456, -80.962. It is not a surveyed corner."
+    },
+    {
+      "id": "gladden-grove",
+      "name": "Gladden Grove",
+      "detail": "A historical place name in this research. The notes give the coordinates and the name, and nothing further about what stood here.",
+      "lat": "34.5004",
+      "lng": "-81.0123",
+      "approximate": false
+    }
+  ],
+  "records": [
+    {
+      "id": "deed-1786",
+      "title": "1786 deed, with Jesse's mark",
+      "caption": "Fairfield Deeds Book A, page 294. In 1786 Jesse witnessed William Gladden's purchase on Nixon's Creek. Jesse could not write, and he signed by mark. The mark is on this page.",
+      "src": "assets/records/deed-1786-jesse-mark.jpg",
+      "width": 2200,
+      "height": 1343,
+      "alt": "Open Fairfield County deed book. Jesse Gladden signs by mark as a witness to William Gladden's 1786 land purchase.",
+      "wide": true
+    },
+    {
+      "id": "hollis-will-1793",
+      "title": "Will of Moses Hollis, 1793",
+      "caption": "Written 9 April 1793 and proved in 1794. The will names \"my Daughter Nancy gladding.\" It does not name her husband.",
+      "src": "assets/records/moses-hollis-will-1793.jpg",
+      "width": 1500,
+      "height": 2190,
+      "alt": "Page of the will of Moses Hollis, written 9 April 1793, naming his daughter Nancy gladding.",
+      "wide": false
+    },
+    {
+      "id": "richard-estate-1783",
+      "title": "Estate of Richard Gladen, 1783",
+      "caption": "Camden Book A-1, page 130. Appraised 17 December 1783 at £146.17.10½. His widow Ann was the main buyer at the sale, including an enslaved man for £42.",
+      "src": "assets/records/richard-gladen-estate-1783.jpg",
+      "width": 1500,
+      "height": 2150,
+      "alt": "Appraisement and sale account of the estate of Richard Gladen, dated 17 December 1783, Camden District.",
+      "wide": false
+    },
+    {
+      "id": "mills-1820",
+      "title": "Mills atlas, 1820",
+      "caption": "A crop from Robert Mills's 1820 atlas, the Wateree River and the creeks of that country. This is the region of the Fairfield County tracts. The crop is a map of the place, not a list of the Gladden owners.",
+      "src": "assets/records/mills-atlas-1820-wateree.jpg",
+      "width": 1400,
+      "height": 910,
+      "alt": "Crop of Robert Mills's 1820 atlas showing the Wateree River and nearby creeks.",
+      "wide": true
+    },
+    {
+      "id": "parcels-map",
+      "title": "Parcel estimates near Little Wateree Creek",
+      "caption": "An approximate view of Gladden, Hollis, and Barber land near Little Wateree Creek and Interstate 77, Fairfield County, South Carolina. The circles are estimates sized as a guide to the deeded acreage. They are not surveyed boundaries, and the true lines are unknown.",
+      "src": "assets/records/parcels-little-wateree-approximate.jpg",
+      "width": 1800,
+      "height": 1455,
+      "alt": "Aerial photograph with approximate circles for Gladden, Hollis, and Barber land near Little Wateree Creek and Interstate 77. The circles are estimates, not surveyed boundaries.",
+      "wide": true
+    }
+  ]
+}
