@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <title>The Gladden Line</title>
+  <meta name="description" content="The Gladden line, from Olivia and Evan back to Wateree Creek in Fairfield County, South Carolina, and the search that continues.">
+  <link rel="canonical" href="https://genegladden.github.io/gladden-family-history/">
+  <meta name="theme-color" content="#12201a">
+  <meta property="og:title" content="The Gladden Line: From Wateree Creek to today">
+  <meta property="og:description" content="A living family record, walked back from the children only as far as the papers go.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://genegladden.github.io/gladden-family-history/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#line">Skip to the family line</a>
+
+  <header class="topbar">
+    <a class="brand" href="#top">The Gladden Line</a>
+    <nav aria-label="Sections">
+      <a href="#line">The line</a>
+      <a href="#searching">Still searching</a>
+      <a href="#places">Places</a>
+      <a href="#records">Records</a>
+    </nav>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-ornament" id="hero-ornament" aria-hidden="true">
+      <svg viewBox="0 0 1200 640" preserveAspectRatio="xMidYMid slice">
+        <path d="M-40 470 C 160 430, 280 520, 460 480 S 760 390, 980 450 S 1180 520, 1280 470" fill="none" stroke="currentColor" stroke-width="1.25"/>
+        <path d="M-40 505 C 200 480, 340 560, 520 520 S 820 430, 1040 500 S 1220 560, 1280 510" fill="none" stroke="currentColor" stroke-width="0.7"/>
+      </svg>
+    </div>
+    <div class="hero-inner">
+      <p class="monogram" aria-hidden="true">
+        <svg viewBox="0 0 72 72">
+          <circle cx="36" cy="36" r="34" fill="none" stroke="currentColor" stroke-width="1"/>
+          <text x="36" y="48" text-anchor="middle">G</text>
+        </svg>
+      </p>
+      <p class="eyebrow">A family record</p>
+      <h1>The Gladden Line<span class="sr-only">: </span> <em>From Wateree Creek to today</em></h1>
+      <div class="hero-rule" aria-hidden="true"><span></span></div>
+      <p class="dek">Fairfield County, South Carolina, and the generations since. Only as far as the records reach.</p>
+    </div>
+  </section>
+
+  <div class="sheet">
+    <noscript>
+      <p class="error">This record is drawn from data/family.json and needs JavaScript to open.</p>
+    </noscript>
+    <section class="preface" id="preface" aria-labelledby="preface-title">
+      <h2 id="preface-title">Preface</h2>
+      <div id="preface-body">
+        <p class="loading">Opening the family record…</p>
+      </div>
+    </section>
+
+    <section class="marks" id="marks" aria-labelledby="marks-title">
+      <h2 id="marks-title">How the marks work</h2>
+      <p class="marks-lead">Every person on the line carries one mark. The mark is about the link, so a well-documented man can still stand on an unproven step.</p>
+      <dl class="legend">
+        <div>
+          <dt><span class="badge proven">Proven</span></dt>
+          <dd>A record shows it, or it is the family’s own knowledge of the nearer generations.</dd>
+        </div>
+        <div>
+          <dt><span class="badge probable">Probable</span></dt>
+          <dd>The evidence leans this way. A record does not yet prove the link.</dd>
+        </div>
+        <div>
+          <dt><span class="badge unproven">Unproven</span></dt>
+          <dd>Kept in view on purpose. No record proves the link.</dd>
+        </div>
+      </dl>
+    </section>
+
+    <section class="line-section" id="line" aria-busy="true" aria-labelledby="line-title">
+      <h2 id="line-title">The line</h2>
+      <p class="loading" id="line-loading">Opening the family record…</p>
+    </section>
+
+    <section class="searching" id="searching" aria-labelledby="searching-title">
+      <h2 id="searching-title">Still searching</h2>
+    </section>
+
+    <section class="places" id="places" aria-labelledby="places-title">
+      <h2 id="places-title">Places</h2>
+    </section>
+
+    <section class="records" id="records" aria-labelledby="records-title">
+      <h2 id="records-title">Records</h2>
+    </section>
+
+    <footer class="colophon" id="colophon">
+      <p id="colophon-text"></p>
+      <p><a href="https://github.com/genegladden/gladden-family-history/blob/main/README.md">How to add a person or a record</a></p>
+    </footer>
+  </div>
+
+  <dialog id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-bar">
+      <p id="viewer-title"></p>
+      <button type="button" class="viewer-close" id="viewer-close">Close</button>
+    </div>
+    <img id="viewer-img" alt="">
+    <p id="viewer-caption"></p>
+  </dialog>
+
+  <script src="js/site.js"></script>
+</body>
+</html>
