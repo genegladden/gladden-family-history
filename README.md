@@ -129,7 +129,7 @@ Then open [http://localhost:8000](http://localhost:8000). Opening `index.html` d
 
 Pushes to `main` run [`.github/workflows/pages.yml`](.github/workflows/pages.yml), which publishes the repository with GitHub Actions (`actions/deploy-pages`).
 
-In the repository settings, **Pages → Build and deployment → Source** must be **GitHub Actions**. After that, the live site is:
+The workflow asks GitHub to turn Pages on. If the deploy fails with “Get Pages site failed,” set it by hand: **Settings → Pages → Build and deployment → Source: GitHub Actions**. After that, the live site is:
 
 [https://genegladden.github.io/gladden-family-history/](https://genegladden.github.io/gladden-family-history/)
 
